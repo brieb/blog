@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: awesome-sauce | Brie's Blog]]></title>
+  <link href="http://blog.briebunge.com/categories/awesome-sauce/atom.xml" rel="self"/>
+  <link href="http://blog.briebunge.com/"/>
+  <updated>2013-08-11T15:29:56-07:00</updated>
+  <id>http://blog.briebunge.com/</id>
+  <author>
+    <name><![CDATA[Brie Bunge]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[This is post]]></title>
+    <link href="http://blog.briebunge.com/2011/06/01/this-is-a-test/"/>
+    <updated>2011-06-01T14:44:00-07:00</updated>
+    <id>http://blog.briebunge.com/2011/06/01/this-is-a-test</id>
+    <content type="html"><![CDATA[<p>Booyah!</p>
+]]></content>
+  </entry>
+  
+</feed>

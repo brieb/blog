@@ -1,15 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://blog.briebunge.com/2011/06/01/this-is-a-test/</loc>
+        <lastmod>2013-08-11T15:27:43-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.briebunge.com/2012/07/22/intro/</loc>
+        <lastmod>2013-08-11T15:27:43-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.briebunge.com/2012/07/22/the-problem-with-pingdom/</loc>
+        <lastmod>2013-08-11T15:27:43-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.briebunge.com/about/</loc>
+        <lastmod>2013-08-11T15:27:43-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.briebunge.com/archives/</loc>
+        <lastmod>2013-08-11T15:27:43-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://blog.briebunge.com/blog/archives/</loc>
-        <lastmod>2013-08-11T14:32:43-07:00</lastmod>
+        <lastmod>2013-08-11T15:27:43-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.briebunge.com/blog/</loc>
+        <lastmod>2013-08-11T15:27:43-07:00</lastmod>
     </url>
     <url>
         <loc>http://blog.briebunge.com/</loc>
-        <lastmod>2013-08-11T14:32:43-07:00</lastmod>
+        <lastmod>2013-08-11T15:27:43-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.briebunge.com/projects/</loc>
+        <lastmod>2013-08-11T15:27:43-07:00</lastmod>
     </url>
     <url>
         <loc>http://blog.briebunge.com/robots.txt</loc>
-        <lastmod>2013-08-11T14:32:43-07:00</lastmod>
+        <lastmod>2013-08-11T15:27:43-07:00</lastmod>
     </url>
 </urlset>
