@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://brieb.github.io/blog/sitemap.xml 
